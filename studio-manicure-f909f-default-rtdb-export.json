@@ -1,0 +1,143 @@
+{
+  "agendamentos": {
+    "-OmtfhSiY154aYHSE8Pj": {
+      "cliente": "Lary",
+      "criadoPor": "cliente",
+      "data": "2026-04-04",
+      "duracao": 60,
+      "formaPagamento": "digital",
+      "hora": "14:00",
+      "notificado": false,
+      "servicoId": "-OkpkxZ72sQakCTUvIqI",
+      "servicoNome": "Banho de Gel (Manutenção)",
+      "timestamp": 1772641769422,
+      "valor": 60,
+      "valorExtra": 0,
+      "valorFinal": 60,
+      "whatsapp": "11961433314"
+    },
+    "-Omvm_VprUWz4jB7sjEh": {
+      "cliente": "Lary",
+      "criadoPor": "cliente",
+      "data": "2026-04-01",
+      "duracao": 60,
+      "formaPagamento": "digital",
+      "hora": "18:30",
+      "notificado": false,
+      "servicoId": "-OkpkxZ72sQakCTUvIqI",
+      "servicoNome": "Banho de Gel (Manutenção)",
+      "timestamp": 1772677126369,
+      "valor": 60,
+      "valorExtra": 0,
+      "valorFinal": 60,
+      "whatsapp": "11961433314"
+    }
+  },
+  "clientesBloqueados": {
+    "11988523575": {
+      "bloqueadoEm": 1772669761889,
+      "motivo": "Não compareceu",
+      "nome": "Cliente bloqueado",
+      "telefone": "11988523575"
+    }
+  },
+  "configuracoes": {
+    "recesso": {
+      "ativo": false,
+      "fim": "2026-02-04",
+      "inicio": "2026-02-04"
+    }
+  },
+  "horarios_funcionamento": {
+    "domingo": {
+      "fechado": true
+    },
+    "quarta": {
+      "fechado": false,
+      "fim": "20:00",
+      "inicio": "14:00"
+    },
+    "quinta": {
+      "fechado": false,
+      "fim": "20:00",
+      "inicio": "14:00"
+    },
+    "segunda": {
+      "fechado": false,
+      "fim": "20:00",
+      "inicio": "14:00"
+    },
+    "sexta": {
+      "fechado": false,
+      "fim": "20:00",
+      "inicio": "14:00"
+    },
+    "sábado": {
+      "fechado": false,
+      "fim": "19:00",
+      "inicio": "09:00"
+    },
+    "terça": {
+      "fechado": false,
+      "fim": "20:00",
+      "inicio": "14:00"
+    }
+  },
+  "notificado": true,
+  "servicos": {
+    "-OkpjxL-MYY7Lxjnl0GH": {
+      "duracao": 70,
+      "nome": "Manicure e Pedicure",
+      "ordem": 1,
+      "preco": 60
+    },
+    "-OkpkBa0GUzqS15S36rH": {
+      "duracao": 120,
+      "nome": "Alongamento de Unhas (Aplicação)",
+      "ordem": 2,
+      "preco": 150
+    },
+    "-OkpkQo8KZrFAR7wtooe": {
+      "duracao": 90,
+      "nome": "Alongamento de Unhas (Manutenção)",
+      "ordem": 3,
+      "preco": 95
+    },
+    "-OkpkaDltT5_eocZFbh_": {
+      "duracao": 60,
+      "nome": "Esmaltação em Gel (Aplicação)",
+      "ordem": 4,
+      "preco": 50
+    },
+    "-Okpkh6-_UQUEyb7U07f": {
+      "duracao": 60,
+      "nome": "Esmaltação em Gel (Manutenção)",
+      "ordem": 5,
+      "preco": 50
+    },
+    "-OkpksPGQMyZOVJmXHKV": {
+      "duracao": 60,
+      "nome": "Banho de Gel (Aplicação)",
+      "ordem": 6,
+      "preco": 85
+    },
+    "-OkpkxZ72sQakCTUvIqI": {
+      "duracao": 60,
+      "nome": "Banho de Gel (Manutenção)",
+      "ordem": 7,
+      "preco": 60
+    },
+    "-OkplAMVZj96xGMsCyb2": {
+      "duracao": 45,
+      "nome": "Pedicure (Avulso)",
+      "ordem": 8,
+      "preco": 35
+    },
+    "-OkplG007y_pOrG27Gub": {
+      "duracao": 45,
+      "nome": "Manicure (Avulso)",
+      "ordem": 9,
+      "preco": 30
+    }
+  }
+}
