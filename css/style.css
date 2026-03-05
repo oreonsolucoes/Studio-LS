@@ -35,7 +35,7 @@ body {
 .overlay {
   position: fixed;
   inset: 0;
-  background: rgba(0, 0, 0, 0.65);
+  background: rgba(0, 0, 0, 0.1);
   z-index: -1;
 }
 
@@ -79,7 +79,7 @@ header {
 
 /* CONTAINER E BLOCOS */
 .container {
-  background: rgba(13, 13, 13, 0.85);
+  background: rgba(13, 13, 13, 0.6);
   border: 1px solid rgba(212, 175, 55, 0.3);
   border-radius: 10px;
   padding: 30px;
