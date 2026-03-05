@@ -13,7 +13,7 @@ const firebaseConfig = {
 };
 
 const app = initializeApp(firebaseConfig);
-const db = getDatabase(app);
+const db = getDatabase(app, "https://studio-lslash-default-rtdb.firebaseio.com");
 const auth = getAuth(app);
 
 // --- PROTEÇÃO DE ROTA E INICIALIZAÇÃO ---
