@@ -20,7 +20,7 @@ body {
   min-height: 100vh;
   color: var(--branco);
   background: linear-gradient(rgba(255, 253, 253, 0.001), rgba(255, 255, 255, 0.001)),
-   url('background1.png') no-repeat;
+   url('https://github.com/oreonsolucoes/Studio-LS/blob/main/background1.png?raw=true') no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
