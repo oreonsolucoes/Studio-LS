@@ -14,7 +14,7 @@ const firebaseConfig = {
 };
 
 const app = initializeApp(firebaseConfig);
-const db = getDatabase(app);
+const db = getDatabase(app, "https://studio-lslash-default-rtdb.firebaseio.com");
 const auth = getAuth(app); // Inicializa a autenticação
 
 // --- PROTEÇÃO DE ROTA ---
@@ -196,6 +196,7 @@ inputInicio.onchange = () => { if (inputFim.value) btnFiltrar.click(); };
 inputFim.onchange = () => { if (inputInicio.value) btnFiltrar.click(); };
 
 window.confirmarPagamento = abrirModalPagamento;
+
 
 
 
