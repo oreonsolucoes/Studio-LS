@@ -27,7 +27,7 @@ body {
   min-height: 100vh;
   color: var(--branco);
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-      url('https://plus.unsplash.com/premium_photo-1661337159345-bc2e2e014c49?q=80&w=870&auto=format');
+      url('https://github.com/oreonsolucoes/Studio-LS/blob/main/background2.png?raw=true');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
