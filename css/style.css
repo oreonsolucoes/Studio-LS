@@ -20,7 +20,7 @@ body {
   min-height: 100vh;
   color: var(--branco);
   /* Ajustado: gradiente mais opaco (0.7 e 0.5) para clarear a imagem de fundo */
-  background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.5)),
+  background: linear-gradient(rgba(255, 255, 255, 0.01), rgba(255, 255, 255, 0.02)),
               url('https://github.com/oreonsolucoes/Studio-LS/blob/main/background1.png?raw=true') no-repeat;
   background-size: cover;
   background-position: center;
