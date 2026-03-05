@@ -19,7 +19,7 @@
 body {
   min-height: 100vh;
   color: var(--branco);
-  background: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.05));
+  background: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.05));,
    url('https://github.com/oreonsolucoes/Studio-LS/blob/main/background1.png?raw=true') no-repeat;
   background-size: cover;
   background-position: center;
