@@ -645,7 +645,7 @@ function gerarHorariosManuais() {
 }
 
 async function enviarParaWebhook(dados) {
-  const WEBHOOK_URL = 'https://n8n.oreonsolucoes.dpdns.org/webhook/studiols';
+  const WEBHOOK_URL = 'https://n8n.oreonsolucoes.dpdns.org/webhook/lary';
 
   try {
     await fetch(WEBHOOK_URL, {
